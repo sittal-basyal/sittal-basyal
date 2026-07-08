@@ -76,16 +76,6 @@ class SittalBasyal:
 
 ---
 
-# 📌 Current Focus
-
-- 🤖 Machine Learning
-- 📊 Data Science
-- ⚡ FastAPI APIs
-- 🧠 Deep Learning
-- 📚 Data Structures & Algorithms
-- 🚀 Building AI Projects
-
----
 
 # 🚀 Featured Projects
 
@@ -102,7 +92,6 @@ class SittalBasyal:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sittal-basyal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sittal-basyal&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -144,22 +133,9 @@ class SittalBasyal:
 - FastAPI
 - Docker
 - AI Mathematics
+- Gen AI
 
----
 
-# 🎯 2026 Goals
-
-✅ Build 20+ AI & ML Projects
-
-✅ Master FastAPI
-
-✅ Learn Deep Learning
-
-✅ Contribute to Open Source
-
-✅ Become an AI Engineer
-
----
 
 # 🌐 Connect With Me
 

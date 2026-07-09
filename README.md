@@ -10,11 +10,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Python+%7C+FastAPI+%7C+Data+Science;Always+Learning+Something+New" />
 </p>
 
-<p>
+<!-- <p>
 <img src="https://komarev.com/ghpvc/?username=sittal-basyal&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/github/followers/sittal-basyal?style=flat&logo=github"/>
 <img src="https://img.shields.io/github/stars/sittal-basyal?style=flat&logo=github"/>
-</p>
+</p> -->
 
 </div>
 

@@ -69,19 +69,19 @@ class SittalBasyal:
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" alt="Data science tools"/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Deep learning frameworks"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,langchain" alt="Deep learning frameworks"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" alt="Backend technologies"/>
 </p>
 
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ I'm focused on building projects that help me understand the fundamentals and de
 | 🧠 Generative AI Experiments | Exploring LLMs, prompts, model integrations, and AI application workflows |
 | 🧩 DSA in C++ | Data structures, algorithms, and problem-solving |
 
-> 📌 Replace these learning areas with links to your actual repositories as each project becomes available. A few complete, well-documented projects are more valuable than a long list of unfinished ones.
+
 
 ---
 
